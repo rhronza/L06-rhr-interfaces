@@ -1,6 +1,6 @@
 package cz.expertkom.ju.interfaces;
 
-import cz.expertkom.ju.entity.User;
+import cz.expertkom.ju.interfaces.entity.User;
 
 public interface UserRepository {
 
